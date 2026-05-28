@@ -1,7 +1,3 @@
-## Hi there 👋
-
-**hectory2k/hectory2k** 
-
 ✨  ✨  🩺 Héctor R.
 
 Médico · Estudiante de Ingeniería en IA (Humai)
