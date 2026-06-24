@@ -6,7 +6,7 @@ Médico · Estudiante de Ingeniería en IA (Humai)
 
 - 🧠 Modelos: scikit-learn, Random Forest, TimeSeries
 - 🐘 Stack: Python, Supabase, GitHub Actions
-- 📱 Todo desde un Moto G65 con Termux
+- 📱 Todo desde un Moto G56 con Termux
 - 🫀 Próximo: VigiSalud Vascular
 
 [![VigiSalud](https://img.shields.io/badge/VigiSalud-v3.5-brightgreen)](https://github.com/hectory2k/vigisalud)
