@@ -10,3 +10,6 @@ Médico · Estudiante de Ingeniería en IA (Humai)
 - 🫀 Próximo: VigiSalud Vascular
 
 [![VigiSalud](https://img.shields.io/badge/VigiSalud-v3.5-brightgreen)](https://github.com/hectory2k/vigisalud)
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21195442.svg)](https://doi.org/10.5281/zenodo.21195442)
+serverless, medical-ai, narrative-review, zenodo, vigisalud
